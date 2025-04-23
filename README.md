@@ -1,1 +1,2 @@
-# my-container-app
+# Demonstration: Setting Up a CI/CD Pipeline for Automated Deployments
+Continuous Deployment (CD) automates the deployment of applications, ensuring that new code changes are automatically built, tested, and deployed to production. In this demonstration, we'll set up a CI/CD pipeline using GitHub Actions to deploy a containerized application to Azure Container Apps.
